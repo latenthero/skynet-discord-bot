@@ -1,6 +1,6 @@
 # SkynetDiscordBot
 
-SkynetDiscordBot allows you to upload text or media messages to Skynet directly from discord
+SkynetDiscordBot allows you to upload text or media messages to Skynet directly from discord. Just send `!skyup <content>` to the bot or add `!skyup` comment when attaching media file
 
 ## Bot URL
 To add bot to your discord server follow this link:
