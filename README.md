@@ -8,7 +8,7 @@ To add bot to your discord server follow this link:
 https://discord.com/api/oauth2/authorize?client_id=710076212571275304&permissions=93184&scope=bot
 
 ## Demo Video
-
+https://siasky.net/AAAZhD1yPgoaH99NG890qZazKNHL0yuNPKt44MRnbzEIeQ
 
 ## License
 [Apache License 2.0](https://github.com/latenthero/skynet-bot/blob/master/LICENSE)
